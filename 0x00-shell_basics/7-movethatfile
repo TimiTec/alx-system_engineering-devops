@@ -1,2 +1,2 @@
 #!/bin/bash
-mk /tem/betty /tmp/ to /tmp/my_first_directory
+mv /tem/betty /tmp/my_first_directory

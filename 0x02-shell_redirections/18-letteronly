@@ -1,1 +1,2 @@
 #!/bin/bash
+sed -n "the quick brown fox jumps over the lazy dog" /etc/ssh/sshd_config
